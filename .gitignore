@@ -1,0 +1,7 @@
+**/__pycache__
+**/instance
+**/migrations
+venv/
+alembic/
+flask/insomnia.json
+music_rating_app.sql
