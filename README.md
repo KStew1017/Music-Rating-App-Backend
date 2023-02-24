@@ -5,7 +5,7 @@ This Flask project emulates an application whose core functionality allows users
 A lightweight REST API was also implemented to allow basic CRUD requests to be submitted to the database. This includes endpoints for creating, indexing, updating, and deleting new songs, albums, user/artist accounts, and ratings.  
 
 
-Markdown API table:  
+API table:  
 
 | Blueprints | Path | Methods |
 |---|---|---|
